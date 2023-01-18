@@ -1,4 +1,4 @@
-module acl-sdk
+module go-eth-acl
 
 go 1.17
 
