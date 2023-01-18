@@ -1,4 +1,4 @@
-module go-eth-acl
+module github.com/ci123chain/go-eth-acl
 
 go 1.17
 
